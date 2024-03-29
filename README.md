@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+   
 </head>
 <body>
     <h1>Financial Loan Analysis: Azure End-To-End Data Engineering Project</h1>
-  
     <ul>
         <li>[📊] Demonstrates an end-to-end data engineering project on Azure Cloud.</li>
         <li>[🔍] Extracts Financial Loan data from Kaggle and utilizes services like Azure Data Factory for data movement.</li>
@@ -19,7 +18,6 @@
     <!-- Additional content or descriptions can be added here -->
 </body>
 </html>
-
 
 
 
